@@ -1,3 +1,6 @@
+/* Gabriel Katz Surya Nehra */
+/* https://github.com/usc-ee250-fall2019/RIOT-EE250/edit/ee250-master/examples/ee250_lab09/main.c */
+
 /*
  * Copyright (C) 2019 Jason A. Tran <jasontra@usc.edu>
  *
